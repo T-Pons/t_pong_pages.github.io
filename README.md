@@ -8,6 +8,10 @@
 Github_pagesの練習と試験。あとテスト。<br>
 静的サイトを作るSSGを一つぐらい経験しときたい、という。<br>
 
+[該当のサイトは](https://t-pons.github.io/t_pons2_pages.github.io/)
+
+githubのsettingの左メニューの下のほうに、「Pages」があるのでそこ。
+
 ## と思ったら
 異常に苦戦。  
 markdownとか慣れてないのだ。(Textileが好きでそっちばっかり使ってた後遺症かもしれん)  
